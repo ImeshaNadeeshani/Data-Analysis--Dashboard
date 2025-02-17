@@ -21,7 +21,9 @@ This Power BI dashboard analyzes car sales performance by tracking YTD and MTD s
 -What are the lowest and highest-selling car models?
 -Which region shows the highest growth in car sales?
 
--<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Overview%20Page.png">Overview Page</a> /
+# Visualization pages in dashboard
+
+-<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Overview%20Page.png">Overview Page</a>
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Details%20Page.png">Details Page</a>
 
 
