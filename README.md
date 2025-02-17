@@ -26,4 +26,14 @@ This Power BI dashboard analyzes car sales performance by tracking YTD and MTD s
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Overview%20Page.png">Overview Page</a>
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Details%20Page.png">Details Page</a>
 
+# Process of Developing the Car Sales Dashboard
+
+1.Collect Data – Gather sales, pricing, and regional data.
+2.Clean & Prepare – Fix errors, remove duplicates, and format data.
+3.Import to Power BI – Load the dataset for analysis.
+4.Model Data – Create relationships and apply DAX calculations.
+5.Design Dashboard – Add charts, KPIs, and filters for insights.
+6.Test & Validate – Ensure accuracy and performance.
+7.Deploy & Maintain – Publish, update, and refine as needed.
+
 
