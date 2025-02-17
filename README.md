@@ -4,6 +4,8 @@ An interactive Power BI dashboard for car sales analysis, visualizing Year-to-Da
 This Power BI dashboard analyzes car sales performance by tracking YTD and MTD sales, monitoring average price trends, and visualizing sales distribution by body style, color, and dealer region. It helps identify growth patterns, compare dealer performance, and optimize sales strategies.
 # Dataset Used
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Car%20Sales.xlsx">Dataset</a>
+# Dashboard
+-<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Car_Sales_Project_(NEW).pbix">Power BI Dashboard</a>
 # Questions(KPIs)
 -What is the total Year-to-Date (YTD) sales revenue?
 -How many cars have been sold Year-to-Date (YTD)?
@@ -25,11 +27,6 @@ This Power BI dashboard analyzes car sales performance by tracking YTD and MTD s
 
 ![Overview Page](https://github.com/user-attachments/assets/e99b9d6e-20b6-478b-a85a-357111f429b3)
 ![Details Page](https://github.com/user-attachments/assets/a06dd43a-6f86-4c79-aa68-eda479094f15)
-
-
-
--<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Overview%20Page.png">Overview Page</a>
--<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Details%20Page.png">Details Page</a>
 
 # Process of Developing the Car Sales Dashboard
 
