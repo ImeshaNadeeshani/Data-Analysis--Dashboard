@@ -23,6 +23,11 @@ This Power BI dashboard analyzes car sales performance by tracking YTD and MTD s
 
 # Visualization pages in dashboard
 
+![Overview Page](https://github.com/user-attachments/assets/e99b9d6e-20b6-478b-a85a-357111f429b3)
+![Details Page](https://github.com/user-attachments/assets/a06dd43a-6f86-4c79-aa68-eda479094f15)
+
+
+
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Overview%20Page.png">Overview Page</a>
 -<a href="https://github.com/ImeshaNadeeshani/Data-Analysis--Dashboard/blob/main/Details%20Page.png">Details Page</a>
 
